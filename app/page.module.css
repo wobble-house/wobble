@@ -37,10 +37,6 @@
   letter-spacing: -0.025em;
 }
 
-.title a {
-  text-decoration: none;
-  color: #0070f3;
-}
 
 .title a:hover,
 .title a:focus,

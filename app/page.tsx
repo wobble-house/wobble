@@ -6,7 +6,7 @@ export default function Home() {
     <div className={styles.container}>
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://WOBBLE.HOUSE">WOBBLE HOUSE!</a>
+          Welcome to <a className="linear-wipe" href="https://WOBBLE.HOUSE">WOBBLE HOUSE!</a>
         </h1>
       </main>
     </div>
